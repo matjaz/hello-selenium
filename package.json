@@ -1,0 +1,7 @@
+{
+  "name": "hello-selenium",
+  "version": "0.0.0",
+  "dependencies": {
+    "webdriverjs": "^1.0.7"
+  }
+}
